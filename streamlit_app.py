@@ -112,6 +112,10 @@ pagina = st.sidebar.selectbox('Selecione uma opção', ['Home', 'Data', 'Horári
 if pagina == 'Home':
     st.title('Página Home')
     st.write('Navegue pelas opções a esquerda para visualizações gráficas.')
+    
+    # Adicionando a imagem
+    imagem_url = 'https://github.com/LuizVicenteJr/dados_atendimentos_educacionais_streamlit/blob/main/logo_oba.jpg'
+    st.image(imagem_url, caption='Logo OBA')
 
 # Página "Data"
 elif pagina == 'Data':
