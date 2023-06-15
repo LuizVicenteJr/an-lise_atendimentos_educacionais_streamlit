@@ -1,5 +1,6 @@
 # Dados de Atendimentos Educacionais - Streamlit
 Este repositório contém uma aplicação web desenvolvida em Streamlit que permite visualizar e analisar dados de atendimentos educacionais em um projeto universitário que busca divulgar o ensino de Ciências de forma remota em todo território brasileiro.
+Link para o web aplicativo : https://luizvicentejr-dados-atendimentos-educacion-streamlit-app-op2bt1.streamlit.app/
 
 ## Visão Geral
 A aplicação web oferece uma interface intuitiva para explorar os dados de atendimentos. Ela é baseada em Streamlit, uma ferramenta para criação de aplicativos de dados interativos usando Python.
